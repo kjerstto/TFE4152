@@ -1,0 +1,101 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=VehicleDetectSystem
+
+[Library]
+VehicleDetectSystem=.\VehicleDetectSystem\VehicleDetectSystem.lib
+
+[Settings]
+AccessRead=1
+AccessReadWrite=1
+AccessACCB=1
+AccessACCR=1
+AccessReadWriteSLP=1
+AccessReadTopLevel=0
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+SimulationAccessReadPaths=
+SimulationAccessReadModules=+m+decoder +m+decoder_TB +m+dff +m+VDS_TB +m+listener +m+lfsr
+SimulationAccessReadWritePaths=
+SimulationAccessReadWriteModules=+m+decoder +m+decoder_TB +m+dff +m+VDS_TB +m+listener +m+lfsr
+SimulationAccessNetsPaths=
+SimulationAccessNetsModules=+m+decoder +m+decoder_TB +m+dff +m+VDS_TB +m+listener +m+lfsr
+WireDelay=2
+EnableFullDebugMode=0
+preservesimresultsfile=0
+EnableSSEvent=0
+FullDebugModeSignalsFile=VehicleDetectSystem.psl
+simresultsfile=.\VehicleDetectSystem.psd  
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=1
+VerilogLanguage=8
+WarningPrnLevel=1
+OptimizationLevel=2
+ProtectLevel=0
+Strict=0
+VerilogNoSpecify=0
+AdditionalOptions=
+ErrorOutputLimit=0
+MonitoringOfEventsUDP=0
+DisablePulseError=0
+PulseErrorFilter=0
+ErrorLimit=100
+RejectionLimit=100
+SetErrorLimit=0
+SetRejectionLimit=0
+InitialRegsValue=X
+HasInitialRegsValue=0
+LibNames=
+PriorityLibNames=
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+VehicleDetectSystem=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/decoder.v=-1
+/dff.v=-1
+/decoder_TB.v=-1
+/listener.v=-1
+/sipo.v=-1
+/VDS_TB.v=-1
+/lfsr.v=-1
+/lfsr2.v=-1
+
+[Files.Data]
+.\src\decoder.v=Verilog Source Code
+.\src\dff.v=Verilog Source Code
+.\src\decoder_TB.v=Verilog Source Code
+.\src\listener.v=Verilog Source Code
+.\src\sipo.v=Verilog Source Code
+.\src\VDS_TB.v=Verilog Source Code
+
+.\src\lfsr.v=Verilog Source Code
+.\src\lfsr2.v=Verilog Source Code
+[DefineMacro]
+Global=
+[LocalVerilogDirs]
+Count=0

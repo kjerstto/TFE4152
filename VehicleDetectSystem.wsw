@@ -1,0 +1,14 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/decoder.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/dff.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/listener.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/sipo.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/VDS_TB.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/lfsr.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\VehicleDetectSystem\src/lfsr2.v|]
+TemplateId=2

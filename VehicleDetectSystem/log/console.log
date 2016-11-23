@@ -1,0 +1,1037 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +w_nets +m+decoder +m+decoder_TB +m+dff +m+VDS_TB +m+listener +m+lfsr +accb +accr +access +r +m+decoder +m+decoder_TB +m+dff +m+VDS_TB +m+listener +m+lfsr +access +r+w +m+decoder +m+decoder_TB +m+dff +m+VDS_TB +m+listener +m+lfsr VDS_TB
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6069 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  20.43, onsdag 23. november 2016
+#  Simulation has been initialized
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6069 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  20.43, onsdag 23. november 2016
+#  Simulation has been initialized
+# 14 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6069 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  20.44, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 300 us
+# KERNEL: stopped at time: 300 us
+run 300 us
+# KERNEL: stopped at time: 600 us
+# 1 signal(s) traced.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6069 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  20.45, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 300 us
+# KERNEL: stopped at time: 300 us
+run 500 us
+# KERNEL: stopped at time: 800 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6069 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  20.45, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6069 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.02, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -O2 -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Running Optimizer.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# Warning: ALOG: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.5 [s]
+# SLP: Finished : 0.5 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.02, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.05, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -O2 -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# Running Optimizer.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# Warning: ALOG: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.7 [s]
+# SLP: Finished : 0.8 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.8 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.05, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.08, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -O2 -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Running Optimizer.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# Warning: ALOG: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.9 [s]
+# SLP: Finished : 1.0 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 1.0 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.08, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.11, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -O2 -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# Running Optimizer.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# Warning: ALOG: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.7 [s]
+# SLP: Finished : 0.7 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.7 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.11, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.15, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -O2 -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# Running Optimizer.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# Warning: ALOG: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.7 [s]
+# SLP: Finished : 0.7 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.7 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.15, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -O2 -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# Running Optimizer.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# Warning: ALOG: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.9 [s]
+# SLP: Finished : 0.9 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.9 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6068 kB (elbread=1280 elab2=4642 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.16, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+# Warning: Cannot set breakpoint. No executable statement found or debugging data is unavailable. Compile source files with the -dbg argument of the acom/alog command or check the Enable Debug option in the Compilation | VHDL/Verilog category of the Design Settings dialog box.
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# Warning: Cannot set breakpoint. No executable statement found or debugging data is unavailable. Compile source files with the -dbg argument of the acom/alog command or check the Enable Debug option in the Compilation | VHDL/Verilog category of the Design Settings dialog box.
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# Warning: Cannot set breakpoint. No executable statement found or debugging data is unavailable. Compile source files with the -dbg argument of the acom/alog command or check the Enable Debug option in the Compilation | VHDL/Verilog category of the Design Settings dialog box.
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# Warning: Cannot set breakpoint. No executable statement found or debugging data is unavailable. Compile source files with the -dbg argument of the acom/alog command or check the Enable Debug option in the Compilation | VHDL/Verilog category of the Design Settings dialog box.
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/lfsr.v $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.5 [s]
+# SLP: Finished : 0.5 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.29, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.7 [s]
+# SLP: Finished : 0.7 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.8 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.29, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.6 [s]
+# SLP: Finished : 0.6 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.31, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.5 [s]
+# SLP: Finished : 0.5 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.37, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.5 [s]
+# SLP: Finished : 0.5 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.3 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.38, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 1[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.5 [s]
+# SLP: Finished : 0.5 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 51 (91.07%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.41, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.7 [s]
+# SLP: Finished : 0.7 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.8 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.48, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+# 1 signal(s) traced.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.49, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.53, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.5 [s]
+# SLP: Finished : 0.5 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.6 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6071 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.53, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Error: VCP2000 listener.v : (77, 29): Syntax error. Unexpected token: else[_ELSE]. Expected tokens: '#' , ''' , '(' , ';' , '@' ... .
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Compile failure 1 Errors 0 Warnings  Analysis time: 0[s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6071 kB (elbread=1280 elab2=4645 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.55, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Info: VCP2113 Module sipo found in current working library.
+# Info: VCP2113 Module lfsr found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing 

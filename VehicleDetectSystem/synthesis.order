@@ -1,0 +1,7 @@
+i<>.\src\decoder.v
+i<>.\src\dff.v
+i<>.\src\decoder_TB.v
+i<>.\src\listener.v
+i<>.\src\sipo.v
+i<>.\src\VDS_TB.v
+i<>.\src\lfsr.v
