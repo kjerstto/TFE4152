@@ -1,24 +1,33 @@
 MESSAGE "Pass 1. Scanning modules hierarchy."
 MESSAGE_SP VCP2113 "Module \$root found in current working library."
 BEGINPROGRESS Compiling...
+UPDATEPROGRESS 5
+UPDATEPROGRESS 10
+UPDATEPROGRESS 15
+UPDATEPROGRESS 20
+UPDATEPROGRESS 25
+UPDATEPROGRESS 30
 UPDATEPROGRESS 35
-MESSAGE_SP VCP2113 "Module sipo found in current working library."
-MESSAGE_SP VCP2113 "Module lfsr found in current working library."
 MESSAGE "Pass 2. Processing instantiations."
 UPDATEPROGRESS 45
 MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 62
 UPDATEPROGRESS 80
-MESSAGE "Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70)."
+MESSAGE "Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68)."
 MESSAGE "ELB/DAG code generating."
 MESSAGE_SP VCP2113 "Module \$root found in current working library."
-UPDATEPROGRESS 82
+UPDATEPROGRESS 81
+UPDATEPROGRESS 83
 UPDATEPROGRESS 85
-UPDATEPROGRESS 88
-UPDATEPROGRESS 91
+UPDATEPROGRESS 87
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 92
 UPDATEPROGRESS 94
-UPDATEPROGRESS 97
-UPDATEPROGRESS 100
+UPDATEPROGRESS 96
+MESSAGE "Unit top modules: decoder_TB VDS_TB."
 MESSAGE "$root top modules: decoder_TB VDS_TB."
+UPDATEPROGRESS 100
 ENDPROGRESS Compiling...
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 1[s]."
 MESSAGE "done"

@@ -14,14 +14,11 @@
 //
 //-----------------------------------------------------------------------------
 //
-// Description : 
+// Description : Decoder converts FM0 signal to NRZ, and generates clock signal.
 //
 //-----------------------------------------------------------------------------
 `timescale 1 ns / 1 ps
 
-//{{ Section below this comment is automatically maintained
-//   and may be overwritten
-//{module {decoder}}
 module decoder ( fm0 ,reset ,nrz ,clk );
 
 output nrz ;
@@ -36,7 +33,6 @@ wire a, b, c, d, e, f;
 reg delA, delB, delC;
 
 
-//}} End of automatically maintained section
 
 xor xor1 (c, fm0, e);
 xor xor2 (clk, a, b);

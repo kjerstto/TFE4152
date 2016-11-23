@@ -1,1 +1,7 @@
+"../src/dff.v"	1
+"../src/lfsr.v"	1
+"../src/decoder_TB.v"	1
+"../src/sipo.v"	1
+"../src/VDS_TB.v"	1
+"../src/decoder.v"	1
 "../src/listener.v"	1

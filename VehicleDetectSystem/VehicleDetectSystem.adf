@@ -35,7 +35,7 @@ EnableFullDebugMode=0
 preservesimresultsfile=0
 EnableSSEvent=0
 FullDebugModeSignalsFile=VehicleDetectSystem.psl
-simresultsfile=.\VehicleDetectSystem.psd  
+simresultsfile=.\VehicleDetectSystem.psd 
 
 [LocalVerilogSets]
 EnableSLP=1
@@ -83,7 +83,6 @@ Selected=
 /sipo.v=-1
 /VDS_TB.v=-1
 /lfsr.v=-1
-/lfsr2.v=-1
 
 [Files.Data]
 .\src\decoder.v=Verilog Source Code
@@ -92,10 +91,12 @@ Selected=
 .\src\listener.v=Verilog Source Code
 .\src\sipo.v=Verilog Source Code
 .\src\VDS_TB.v=Verilog Source Code
-
 .\src\lfsr.v=Verilog Source Code
 .\src\lfsr2.v=Verilog Source Code
+
 [DefineMacro]
 Global=
+
 [LocalVerilogDirs]
 Count=0
+

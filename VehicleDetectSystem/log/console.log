@@ -1034,4 +1034,150 @@ alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/listener.v
 # Info: VCP2113 Module sipo found in current working library.
 # Info: VCP2113 Module lfsr found in current working library.
 # Pass 2. Processing instantiations.
-# Pass 3. Processing 
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.8 [s]
+# SLP: Finished : 0.8 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.8 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4646 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  21.55, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+# Warning: Cannot set breakpoint. No executable statement found or debugging data is unavailable. Compile source files with the -dbg argument of the acom/alog command or check the Enable Debug option in the Compilation | VHDL/Verilog category of the Design Settings dialog box.
+# Warning: Cannot set breakpoint. No executable statement found or debugging data is unavailable. Compile source files with the -dbg argument of the acom/alog command or check the Enable Debug option in the Compilation | VHDL/Verilog category of the Design Settings dialog box.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.02%) signals in SLP and 52 (91.23%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4646 kernel=146 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\VehicleDetectSystem\VehicleDetectSystem\src\wave.asdb
+#  22.05, onsdag 23. november 2016
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/wave.asdb'.
+run 500 us
+# KERNEL: stopped at time: 500 us
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 70).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+alog -dbg -sve -msg 5 -sv2k12 -work VehicleDetectSystem $dsn/src/decoder.v $dsn/src/dff.v $dsn/src/decoder_TB.v $dsn/src/listener.v $dsn/src/sipo.v $dsn/src/VDS_TB.v $dsn/src/lfsr.v
+# Pass 1. Scanning modules hierarchy.
+# Info: VCP2113 Module \$root found in current working library.
+# Pass 2. Processing instantiations.
+# Pass 3. Processing behavioral statements.
+# Parameters in case labels, will not check for overlapping labels (c:/My_Designs/VehicleDetectSystem/VehicleDetectSystem/src/listener.v, ln 68).
+# ELB/DAG code generating.
+# Info: VCP2113 Module \$root found in current working library.
+# Unit top modules: decoder_TB VDS_TB.
+# $root top modules: decoder_TB VDS_TB.
+# Compile success 0 Errors 0 Warnings  Analysis time: 1[s].
+# done
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.7 [s]
+# SLP: Finished : 0.8 [s]
+# SLP: 2 (9.09%) primitives and 20 (90.91%) other processes in SLP
+# SLP: 4 (7.14%) signals in SLP and 52 (92.86%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.8 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warnin

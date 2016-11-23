@@ -14,7 +14,7 @@
 //
 //-----------------------------------------------------------------------------
 //
-// Description : 
+// Description : 64 bit serial in - parallel out register
 //
 //-----------------------------------------------------------------------------
 `timescale 1 ns / 1 ps
@@ -23,16 +23,16 @@
 //   and may be overwritten
 //{module {sipo}}
 // Parameterized serial-in, parallel-out shift register
-module sipo (dout, din, clk, reset); //removed clk_en
+module sipo (dout, din, clk, reset); 
 	parameter WIDTH = 64;
 	output [WIDTH-1:0] dout;
-	input din, clk, reset; //removed clk_en
+	input din, clk, reset; 
 	reg [WIDTH-1:0] dout;
 	
 	always @(posedge clk or posedge reset)
 		if (reset)
 			dout <= {WIDTH{1'b0}};
-		else //if (clk_en) 
+		else
 			begin
 				dout <= {dout[WIDTH-2:0], din};
 			end
